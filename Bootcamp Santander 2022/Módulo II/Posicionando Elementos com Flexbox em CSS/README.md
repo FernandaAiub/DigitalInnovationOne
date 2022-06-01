@@ -14,6 +14,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
+---
+
 ## 🖥️ Demonstração
 
 ![](https://github.com/FernandaAiub/DigitalInnovationOne/blob/d186ad4306f822e604aa59f2771435f35804de1b/Bootcamp%20Santander%202022/M%C3%B3dulo%20II/Posicionando%20Elementos%20com%20Flexbox%20em%20CSS/PrintFlexTurismos.png)
